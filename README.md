@@ -1,2 +1,7 @@
 # TV Show Program
-A program written in Java that allows the user to remember where they are currently at in a show.
+
+# Description
+Program was designed to keep track of where the user is currently at the show.
+
+# Languges
+Java
