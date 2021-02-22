@@ -1,7 +1,2 @@
-# TV Show Program
-
-# Description
-Program was designed to keep track of where the user is currently at the show.
-
-# Languges
-Java
+# Tv Show Tracker
+A program written in Java, will keep track of where the user is at in a Tv Show.
