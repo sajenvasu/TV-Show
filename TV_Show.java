@@ -48,7 +48,7 @@ public class TV_Show{
                 System.out.print("\nEnter Show Name\n>> ");
                 show_name = SC.nextLine();
                 season = 1;
-                episode = 0;
+                episode = 1;
             }else{
                 System.out.println("Please choose a valid option!");
             }
